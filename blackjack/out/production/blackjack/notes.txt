@@ -1,0 +1,18 @@
+black jack : card game me and dealer
+me get rand cards 2
+card assigned score
+score additive
+me draw or something
+if 21 crosses then dealer wins
+then dealer draws: who more who wins
+ace is 1 or 11 depends if 21 crosses or not.
+
+Ace == 0
+each no is itself
+face cards are all 11,12,13,14
+
+classes:
+person: player and dealer
+
+card: 52 objects
+
